@@ -1,0 +1,26 @@
+h1{
+    font-family: Arial;
+    color: brown;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 900;
+}
+h2{
+    font-weight: 900;
+    font-family: Verdana;
+text-decoration: underline;
+text-transform: uppercase;
+font-size:18px;
+}
+li{ 
+    text-align: left;
+    font-family: Arial;
+    font-variant: small-caps;
+    font-size: 17px;
+}
+p{
+    font-family: Arial;
+    font-size: 18px;
+    font-variant: small-caps;
+}

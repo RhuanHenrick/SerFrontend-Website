@@ -1,0 +1,17 @@
+/* h1,h2,a,p  { font-family: sans-serif; color: red; } */
+/** usamos a formatacao usando , por conta que o body nao incluem os links em determinadas modificacoes */
+body{font-family: sans-serif; color: red;}
+
+a{display: inline-block; padding: 3px;}
+
+a:link{color: red;} 
+/* Ver se o link e verdadeiro */
+
+a:visited{color: purple;}
+/* Ver se eu ja visitei o link */
+
+a:hover{background-color: lightblue;}
+/* Colocar background no fundo do meu link */
+
+a:active{background-color: yellow;}
+/* muda o fundo do meu link apos click */
